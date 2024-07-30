@@ -1,0 +1,40 @@
+.top-nav,
+.selection-nav {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  /* border: 1px solid blueviolet; */
+}
+.top-nav {
+  margin-bottom: 40px;
+}
+h1 {
+  margin: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 50px;
+}
+.Name {
+  padding-right: 100px;
+}
+.selection-nav {
+  padding-top: 10px;
+  width: 400px;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.button-links {
+  height: 35px;
+  width: 90px;
+  border-radius: 5px;
+  font-size: 15px;
+  border: none;
+  margin-left: 10px;
+  background-color: rgb(221, 221, 221);
+}
+.button-links:hover {
+  box-shadow: 1px 1px 2px;
+}

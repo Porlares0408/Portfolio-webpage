@@ -1,0 +1,36 @@
+.main-content {
+  /* border: 1px solid blue; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.my-profile {
+  width: 390px;
+}
+.content-name {
+  padding: 0;
+  font-size: 95px;
+  padding-bottom: 10px;
+}
+
+.content-des {
+  margin: 0;
+  font-size: 20px;
+  line-height: 20px;
+}
+
+.talk {
+  margin-top: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 200px;
+  border-radius: 20px;
+  border: none;
+  background-color: rgb(221, 221, 221);
+}
+.talk:hover {
+  box-shadow: 1px 1px 2px;
+}
+.content {
+  max-width: 100%;
+}

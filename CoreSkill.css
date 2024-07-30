@@ -1,0 +1,31 @@
+.core-skills {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 100px;
+}
+
+.core-picture {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 400px;
+  text-align: center;
+  position: relative;
+  border-radius: 10px;
+  background-color: rgb(240, 220, 196);
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.core-picturepng {
+  width: 200px;
+  position: absolute;
+  top: -80px;
+}
+.coreskil-title {
+  font-size: 25px;
+}
+.CoreSkill-Description {
+  font-size: 20px;
+}
